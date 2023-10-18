@@ -34,7 +34,6 @@ public class Main {
         alamat = "Kalukku";
         System.out.println("Alamat : "+alamat);
         
-        
     }
     
 }
