@@ -42,7 +42,7 @@ public class Main {
         
         int angka3 = 3;
         
-        switch(angka){
+        switch(angka3){
             case 1:
             System.out.println("Good");
             break;
