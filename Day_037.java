@@ -9,7 +9,7 @@ public class D37 {
         System.out.print("Masukkan Angka : ");
         int a = input.nextInt();
         System.out.print("Masukkan Simbol : ");
-        int c = input.next().charAt(0);
+        char c = input.next().charAt(0);
         System.out.print("Masukkan Angka : ");
         int b = input.nextInt();
         
