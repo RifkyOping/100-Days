@@ -1,7 +1,5 @@
 package D65_;
-
 import java.util.Scanner;
-
 public class D65_ {
     static void Terkecil(int arr[][]){
         int hasil = arr[0][0];
