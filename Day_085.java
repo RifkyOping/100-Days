@@ -19,5 +19,5 @@ public class JumlahAngka {
         System.out.println("\nJumlah angka antara "+awal+" sampai "+akhir);
         System.out.println("Adalah : "+hasil);
     }
-    
+     
 }
