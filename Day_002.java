@@ -3,10 +3,8 @@ import java.util.Scanner;
 public class Main {
     
     public static void main(String[] args) {
-
         
-        
-        Scanner input = new Scanner(System.in);
+     Scanner input = new Scanner(System.in);
      String nama,nim, prodi;
      char kelas;
      int umur;
@@ -29,7 +27,6 @@ public class Main {
      
      System.out.print("Berat Badan : ");
      bb = input.nextFloat();
-        
         
     }
     
